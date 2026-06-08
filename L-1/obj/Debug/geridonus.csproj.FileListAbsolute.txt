@@ -1,0 +1,8 @@
+C:\Users\hnica\source\repos\geridonus\bin\Debug\geridonus.exe.config
+C:\Users\hnica\source\repos\geridonus\bin\Debug\geridonus.exe
+C:\Users\hnica\source\repos\geridonus\bin\Debug\geridonus.pdb
+C:\Users\hnica\source\repos\geridonus\obj\Debug\geridonus.csproj.AssemblyReference.cache
+C:\Users\hnica\source\repos\geridonus\obj\Debug\geridonus.csproj.CoreCompileInputs.cache
+C:\Users\hnica\source\repos\geridonus\obj\Debug\geridonus.exe
+C:\Users\hnica\source\repos\geridonus\obj\Debug\geridonus.pdb
+C:\Users\hnica\source\repos\geridonus\obj\Debug\geridonus.exe.config
